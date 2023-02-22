@@ -8041,6 +8041,27 @@ export const factoryBadges: BadgeMetadata[] = [
     links: [],
   },
   {
+    internalCollectionId: 2985570,
+    networks: [
+      Network.Polygon
+    ],
+    name: "Treasure",
+    description: "Badge available for voting in Treasure Dao on Snapshot",
+    image: "treasure.svg",
+    groupGeneratorName: "treasure",
+    publicContacts: [
+      {
+        type: "twitter",
+        contact: "@buragan1978"
+      }
+    ],
+    eligibility: {
+      specification: "",
+      shortDescription: "Badge available for voting in Treasure Dao on Snapshot"
+    },
+    links: []
+  },
+  {
     internalCollectionId: 2986697,
     networks: [
       Network.Polygon
